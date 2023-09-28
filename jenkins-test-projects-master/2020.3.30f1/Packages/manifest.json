@@ -1,0 +1,15 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "SYBO",
+      "url": "https://npm.sybo.net",
+      "scopes": [
+        "com.sybo",
+        "com.google"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.test-framework": "1.1.33"
+  }
+}
